@@ -23,15 +23,37 @@ anyway I wanted to using the tools I had learnt.
 
 ## Links
 
-## Features
+---
+
+- [Yasmin A | Web Development Portfolio](https://yasmin-io.github.io/yasmin-portfolio-project/)
 
 ## What did I learn?
 
+---
+
+> I learned that being realistic will save you an extremely long time and help you get more work done. I created my own Wireframe and used an app called [Notion](https://www.notion.so/) to brainstorm my idea. This will be extremely useful in future when I do have the skillset to acheieve my goals set to creating a beautiful and function website.
+
 ## Future Tests (Bugs & Fixes)
+
+---
 
 ### Responsive Layout
 
-I only managed to make half of my layout responsive as I was concious of time. I set all the image sizes to the same size, as I was aware that this would have been simpler. And I did have a layout but didn't have the time to create all three different parts responsive and coherent.
+I only managed to make half of my layout responsive as I was concious of time. I struggled on recalling flexbox & other Display properties and completely understanding how to use them to achieve a specific outcome. My previous design had felt abit too complicated for the limited time to achieve realistically. However, I will be reverting back to this design in future with more complicated CSS and more understanding.
 This is what I created before I removed it for the simpler layout:
+
+![Original Portfolio Layout](https://github.com/yasmin-io/yasmin-portfolio-project/blob/85dceba05d988c00e08ab2a534a8ab43ef53da77/assets/Images/b8deb66126a660c2d1aa58393eaed116.png)
+
+### Hover Image Overlay
+
+This was another that I attempted and wasn't able to due to time and lack of understanding. I want to come back to this feature in future.
+
+### Design Improvement
+
+Due to my lack of understanding in Flexbox and Display, my original design in my wireframe wasn't responsive to screen size changes. This was disapointing as my original Idea was alot more complex and professional. I would but looking at updating my layout in future.
+
+### Logos, HandWritten Titles and Other
+
+Something interesting that I had tried, was adding logos, a handwritten title and moving icons to my page. I had big ideas for a unique design and as an art student, I was desperate to fulfill a design that was ahead of my tool set. These are some more design features I want to bring to my portfolio, aswell as simply improving the code itself.
 
 Copyright © [2021] [Yasmin A]
