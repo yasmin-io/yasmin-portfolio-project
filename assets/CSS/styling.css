@@ -20,6 +20,7 @@ h6 {
   font-weight: 200;
   letter-spacing: 3px;
 }
+
 /* Navigation Bar Styling*/
 nav ul li a {
   font-family: "Raleway", sans-serif;
@@ -48,6 +49,7 @@ nav ul {
   box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
   transition: 150ms ease-in-out;
 }
+
 /*Avatar Image Styling*/
 .float-right {
   width: 30%;
@@ -57,6 +59,7 @@ nav ul {
   margin-right: auto;
   margin: 0 auto;
 }
+
 /*About Me Article Styling*/
 .TitleAboutMe {
   font-family: "Permanent Marker", cursive;
@@ -75,6 +78,7 @@ p.DescriptionAboutMe {
   margin: 0 auto;
   max-width: 400px;
 }
+
 /* Article Contact Button Styling*/
 .ButtonOne {
   color: rgb(25, 30, 33);
@@ -90,6 +94,11 @@ p.DescriptionAboutMe {
   margin-top: 3%;
 }
 
+button a {
+  text-decoration: none;
+  color: rgb(25, 30, 33);
+}
+
 .ButtonOne:hover {
   cursor: pointer;
   background-color: rgba(25, 30, 33, 0.1);
@@ -97,24 +106,24 @@ p.DescriptionAboutMe {
   box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.4);
   background-color: rgba(78, 89, 77, 0.9);
 }
-/*Place Holders Portfolio Wall*/
+
+/*Place Holders Portfolio Wall at full screen size */
 .portfolioPictures {
   background-color: rgba(78, 89, 77, 0.3);
   text-align: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
 }
-.BottomRow {
-  display: inline-block;
-  display: flex;
-  white-space: nowrap;
-  text-align: center;
-  margin-left: 10.5%;
+.placeholder {
+  margin-left: 135px;
+  margin-right: 135px;
+  position: relative;
 }
-.placeholdersFirst {
-  padding-top: 47px;
-}
-.placeholderLast {
-  margin-left: 7px;
-  margin-bottom: 5%;
+.placeholder:hover {
+  cursor: pointer;
+  border: 3px solid rgb(78, 89, 77);
+  transition: 150ms ease-in-out;
+  background-color: rgba(25, 30, 33, 0.5);
 }
 
 /*Changing the Design to keep the layout clear on smaller screens*/
@@ -127,4 +136,48 @@ p.DescriptionAboutMe {
 /*Footer Styling*/
 .footer {
   font-family: "Raleway", sans-serif;
+}
+.contactEmail {
+  margin-top: 10px;
+  padding: 10px;
+}
+.Email {
+  margin-left: 10px;
+}
+
+.ThankyouMessage {
+  padding: 10px;
+}
+.Socials {
+  margin: 10px;
+  padding-bottom: 5px;
+}
+
+/*Footer Social Links Styling*/
+a.footerSocials {
+  text-decoration: none;
+  color: rgb(25, 30, 33);
+  display: inline;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+a.footerSocials:hover {
+  cursor: pointer;
+  padding: 10px;
+  font-weight: 500;
+  background-color: rgba(25, 30, 33, 0.1);
+  border-radius: 25px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+  transition: 150ms ease-in-out;
+}
+
+li.footerList {
+  display: inline;
+  margin: 10px;
+}
+
+#copyRight {
+  text-align: center;
+  color: rgb(58, 57, 57);
 }
