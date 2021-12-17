@@ -20,7 +20,7 @@ h6 {
   font-weight: 200;
   letter-spacing: 3px;
 }
-
+/* Navigation Bar Styling*/
 nav ul li a {
   font-family: "Raleway", sans-serif;
   font-weight: 200;
@@ -48,26 +48,83 @@ nav ul {
   box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
   transition: 150ms ease-in-out;
 }
-
+/*Avatar Image Styling*/
 .float-right {
-  max-width: 500px;
-  float: right;
-  display: flex;
+  width: 30%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 0 auto;
 }
-
-section {
-  background-color: rgba(78, 89, 77, 0.3);
-}
-
+/*About Me Article Styling*/
 .TitleAboutMe {
   font-family: "Permanent Marker", cursive;
-  font-size: 60px;
+  font-size: 300%;
   color: rgb(25, 30, 33);
   text-align: center;
   padding-top: 60px;
+  margin: 0 auto;
   padding-bottom: 10px;
 }
-.DescriptionAboutMe {
+p.DescriptionAboutMe {
   font-family: "Raleway", sans-serif;
+  text-align: justify;
+  font-size: 17px;
+  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 400px;
+}
+/* Article Contact Button Styling*/
+.ButtonOne {
+  color: rgb(25, 30, 33);
+  display: block;
+  padding: 10px 30px;
+  border-radius: 25px;
+  font-family: "Raleway", sans-serif;
+  background-color: transparent;
+  border: 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  margin-top: 3%;
+}
+
+.ButtonOne:hover {
+  cursor: pointer;
+  background-color: rgba(25, 30, 33, 0.1);
+  transition: 150ms ease-in-out;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.4);
+  background-color: rgba(78, 89, 77, 0.9);
+}
+/*Place Holders Portfolio Wall*/
+.portfolioPictures {
+  background-color: rgba(78, 89, 77, 0.3);
   text-align: center;
+}
+.BottomRow {
+  display: inline-block;
+  display: flex;
+  white-space: nowrap;
+  text-align: center;
+  margin-left: 10.5%;
+}
+.placeholdersFirst {
+  padding-top: 47px;
+}
+.placeholderLast {
+  margin-left: 7px;
+  margin-bottom: 5%;
+}
+
+/*Changing the Design to keep the layout clear on smaller screens*/
+@media (max-width: 530px) {
+  nav ul li {
+    display: block;
+  }
+}
+
+/*Footer Styling*/
+.footer {
+  font-family: "Raleway", sans-serif;
 }
