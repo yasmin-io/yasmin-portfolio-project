@@ -19,7 +19,9 @@ anyway I wanted to using the tools I had learnt.
 
 ## The Process: Yasmin Portfolio Website
 
-## References & Preperations for my Project
+I worked on [Notion](https://www.notion.so/) to help me createmy page. Here are a series of images to display my thought process and brainstorming process.
+
+![Screen Shot of WebPage](https://github.com/yasmin-io/yasmin-portfolio-project/blob/0f04ff57e3545d702a2e0b38d07b03bd902917a7/assets/Images/My%20Portfolio%20Page.png)
 
 ## Links
 
