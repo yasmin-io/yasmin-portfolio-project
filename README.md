@@ -19,7 +19,17 @@ anyway I wanted to using the tools I had learnt.
 
 ## The Process: Yasmin Portfolio Website
 
-I worked on [Notion](https://www.notion.so/) to help me createmy page. Here are a series of images to display my thought process and brainstorming process.
+---
+
+I worked on [Notion](https://www.notion.so/) to help me create my page. Here are a series of images to display my thought process and brainstorming process.
+
+![WireFrame](https://github.com/yasmin-io/yasmin-portfolio-project/blob/220e0766b8e6d1fa41aa9946ffe8e474ca52ec59/assets/Images/WireFrame.jpg)
+
+![Notion Screenshot](https://github.com/yasmin-io/yasmin-portfolio-project/blob/220e0766b8e6d1fa41aa9946ffe8e474ca52ec59/assets/Images/Notion%20SS.jpg)
+
+![MoodBoard](https://github.com/yasmin-io/yasmin-portfolio-project/blob/220e0766b8e6d1fa41aa9946ffe8e474ca52ec59/assets/Images/MoodBoard.png)
+
+![Font Raleway Screenshot](https://github.com/yasmin-io/yasmin-portfolio-project/blob/220e0766b8e6d1fa41aa9946ffe8e474ca52ec59/assets/Images/Font%20Type.png)
 
 ![Screen Shot of WebPage](https://github.com/yasmin-io/yasmin-portfolio-project/blob/0f04ff57e3545d702a2e0b38d07b03bd902917a7/assets/Images/My%20Portfolio%20Page.png)
 
