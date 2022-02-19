@@ -3,9 +3,9 @@
 ## Project Description
 
 I wanted to build a portfolio page which will be used so that I can showcase my skills and talents I learned to future employers. We were supposed to start from scratch and no starter code was given. I was excited for this project as I got to express myself in
-anyway I wanted to using the tools I had learnt.
+any way I wanted to using the tools I had learnt.
 
-> **Note:** I do not have enough web applications to showcase at this point. I will be using placeholder images instead and replacing the images and links in future. I didn't have enough time to complete my project to my fullest ability, which I will be putting some more time in to complete this project.
+> **Note:** I do not have enough web applications to showcase at this point. I will be using placeholder images instead and replacing the images and links in future. I didn't have enough time to complete my project to my fullest ability, which I will be putting some more time into completing this project.
 
 ## Tasks
 
@@ -43,7 +43,7 @@ I worked on [Notion](https://www.notion.so/) to help me create my page. Here are
 
 ---
 
-> I learned that being realistic will save you an extremely long time and help you get more work done. I created my own Wireframe and used an app called [Notion](https://www.notion.so/) to brainstorm my idea. This will be extremely useful in future when I do have the skillset to acheieve my goals set to creating a beautiful and function website.
+> I learned that being realistic will save you an extremely long time and help you get more work done. I created my own Wireframe and used an app called [Notion](https://www.notion.so/) to brainstorm my idea. This will be extremely useful in future when I do have the skillset to acheieve my goals in creating a beautiful and functional website.
 
 ## Future Tests (Bugs & Fixes)
 
@@ -58,11 +58,11 @@ This is what I created before I removed it for the simpler layout:
 
 ### Hover Image Overlay
 
-This was another that I attempted and wasn't able to due to time and lack of understanding. I want to come back to this feature in future.
+This was another that I attempted and wasn't able to, due to time and lack of understanding. I want to come back to this feature in future.
 
 ### Design Improvement
 
-Due to my lack of understanding in Flexbox and Display, my original design in my wireframe wasn't responsive to screen size changes. This was disapointing as my original Idea was alot more complex and professional. I would but looking at updating my layout in future.
+Due to my lack of understanding in Flexbox and Display, my original design in my wireframe wasn't responsive to screen size changes. This was disapointing as my original Idea was alot more complex and professional. I will update my layout in future.
 
 ### Logos, HandWritten Titles and Other
 
