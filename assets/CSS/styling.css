@@ -1,7 +1,6 @@
 body {
-  background-color: #eeebeb;
+  background-color: black;
 }
-
 h1 {
   font-size: 60px;
   text-align: center;
@@ -108,23 +107,6 @@ button a {
 }
 
 /*Place Holders Portfolio Wall at full screen size */
-.portfolioPictures {
-  background-color: rgba(78, 89, 77, 0.3);
-  text-align: center;
-  padding-top: 10%;
-  padding-bottom: 10%;
-}
-.placeholder {
-  margin-left: 135px;
-  margin-right: 135px;
-  position: relative;
-}
-.placeholder:hover {
-  cursor: pointer;
-  border: 3px solid rgb(78, 89, 77);
-  transition: 150ms ease-in-out;
-  background-color: rgba(25, 30, 33, 0.5);
-}
 
 /*Changing the Design to keep the layout clear on smaller screens*/
 @media (max-width: 530px) {

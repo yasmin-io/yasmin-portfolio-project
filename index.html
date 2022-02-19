@@ -13,7 +13,6 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
-
     <!--Font Links-->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -27,6 +26,7 @@
       href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap"
       rel="stylesheet"
     />
+
     <!--Reset CSS StyleSheet-->
     <link rel="stylesheet" href="./assets/CSS/reset.css" />
     <title>Yasmin A | Web Development Portfolio</title>
@@ -34,16 +34,42 @@
   <body>
     <!--Title and Navigation Bar-->
     <header>
+      <nav>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="#"> Yasmin Ali</a>
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarNavAltMarkup"
+              aria-controls="navbarNavAltMarkup"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+              <div class="navbar-nav">
+                <a
+                  class="nav-link active"
+                  aria-current="page"
+                  href="https://github.com/yasmin-io"
+                  >GitHub</a
+                >
+                <a class="nav-link" href="#footer">Contact</a>
+                <a
+                  class="nav-link"
+                  href="https://www.linkedin.com/in/yasmin-a-5ba6b8226/"
+                  >LinkedIn</a
+                >
+              </div>
+            </div>
+          </div>
+        </nav>
+      </nav>
       <h1>YASMIN</h1>
       <h6>WEB DEVELOPER</h6>
-      <nav>
-        <ul>
-          <li class="nav"><a href="">HOME</a></li>
-          <li class="nav"><a href="#my-email">CONTACT</a></li>
-          <li class="nav"><a href="#about-me">ABOUT</a></li>
-          <li class="nav"><a href="#portfolio-pictures">PORTFOLIO</a></li>
-        </ul>
-      </nav>
     </header>
     <br />
     <br />
@@ -74,34 +100,11 @@
       </section>
       <hr />
       <!--Place Holder Images & Links for Portfolio-->
-      <section class="portfolioPictures" id="portfolio-pictures">
-        <div class="placeholder">
-          <a href="https://yasmin-io.github.io/refactoring-horiseon-code/"
-            ><img
-              alt="1080x400 Place Holder Image"
-              src="https://via.placeholder.com/1080x400"
-          /></a>
-        </div>
-        <div class="placeholder">
-          <a href="https://placeholder.com"
-            ><img
-              alt="Second Clickable 1080x400 Place Holder Image"
-              src="https://via.placeholder.com/1080x400"
-          /></a>
-        </div>
-
-        <div class="placeholder">
-          <a href="https://placeholder.com"
-            ><img
-              alt="Third Clickable 1080x400 Place Holder Image"
-              src="https://via.placeholder.com/1080x400"
-          /></a>
-        </div>
-      </section>
+      <section class="portfolioPictures" id="portfolio-pictures"></section>
     </main>
     <!--Footer & Other links and Contact-->
     <hr />
-    <footer>
+    <footer id="footer">
       <section class="footer">
         <div class="contactEmail" id="contact-me">
           <strong>Contact Email:</strong>
